@@ -21,7 +21,7 @@ git clone https://github.com/VDelnatte/TpPoo
 cd TpPoo
 ```
 
-2. Il vous faut maintenant installez les dépendances avec Composer en tapant la commande suivante : 
+3. Il vous faut maintenant installez les dépendances avec Composer en tapant la commande suivante : 
 
 ```bash
 composer install
@@ -35,11 +35,11 @@ composer install
 php index.php
 ```
 
-3. Suivez les instructions dans le terminal :
-   - Entrez le nombre de cartes que vous souhaitez ajouter.
+2. Suivez les instructions dans le terminal :
+   - Entrez le nombre de cartes que vous souhaitez ajouter (cela doit être un entier supérieur à zéro et si vous vous trompez il vous faudra relancer le script en executant la commande de l'étape 1 ).
    - Pour chaque carte, saisissez une question et une réponse.
 
-4. Une fois toutes les cartes ajoutées, l'application affichera un résumé des cartes créées.
+3. Une fois toutes les cartes ajoutées, l'application affichera un résumé des cartes créées.
 
 ### Exemple d'exécution
 
