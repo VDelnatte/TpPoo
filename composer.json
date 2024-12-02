@@ -1,0 +1,17 @@
+{
+    "name": "vdln/poo",
+    "description": "Une petite application qui permet de créer des crates et de les visualiser",
+    "autoload": {
+        "psr-4": {
+            "Vdln\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valentin",
+            "email": "v.delnatte1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
